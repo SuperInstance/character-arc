@@ -49,7 +49,7 @@ arc.record_class_shift("Scout", "JazzMusician", 150);
 | Transformation | 🦋 | Class change, becoming someone new |
 | Reflection | 🪞 | Looking back, understanding |
 | Conflict | ⚔️ | Rivalry, competition, riffing |
-| Harmony | 🌊 | Teamwork, synergy, belonging |
+| Harmony | 🌊 | Teamwork, integration, belonging |
 
 ## Full Narrative Output
 
